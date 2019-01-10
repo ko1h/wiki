@@ -19,3 +19,33 @@
   margin-left: 50px; /* Same as the width of the sidebar */
   padding: 0px 10px;
 }
+
+.globe{
+  height: 100%;
+  width: 100%;
+}
+.plant {
+  width: 50%;
+  height: 50%;
+  float: left;
+  margin-right: 25px;
+}
+#nasa {
+  width: 50%;
+  height: 50%;
+  float: left;
+  margin-right: 25px;
+  padding-bottom: 25px;
+}
+#pet {
+  width: 100%;
+  height: 100%;
+  margin-right: 25px;
+  padding-bottom: 25px;
+}
+#art {
+  width: 100%;
+  height: 100%;
+  margin-right: 25px;
+  padding-bottom: 25px;
+}
